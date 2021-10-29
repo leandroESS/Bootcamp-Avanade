@@ -1,0 +1,12 @@
+Criar um projeto novo com nome => dotnet new console -n [nome do projeto]
+
+abrir a pasta => explorer .
+
+abri a posta no vscode = > code .
+
+-------------------------------------------
+PASSO A PASSO
+
+ENTRA NO PROMPT DE COMANDO CRIA O PROJETO COM O NOME
+ABRE NA VS CODE E FAZ O DOTNET BUILD E DEPOIS O DOTNET RUN PARA RODAR O PROGRAMA
+

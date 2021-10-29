@@ -1,0 +1,13 @@
+C:\Users\leand\Desktop\Avanade\Projetos\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.exe
+C:\Users\leand\Desktop\Avanade\Projetos\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.deps.json
+C:\Users\leand\Desktop\Avanade\Projetos\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.runtimeconfig.json
+C:\Users\leand\Desktop\Avanade\Projetos\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\Users\leand\Desktop\Avanade\Projetos\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.dll
+C:\Users\leand\Desktop\Avanade\Projetos\EstruturaDoPrograma\bin\Debug\netcoreapp3.1\EstruturaDoPrograma.pdb
+C:\Users\leand\Desktop\Avanade\Projetos\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.csprojAssemblyReference.cache
+C:\Users\leand\Desktop\Avanade\Projetos\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\Users\leand\Desktop\Avanade\Projetos\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.AssemblyInfo.cs
+C:\Users\leand\Desktop\Avanade\Projetos\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\Avanade\Projetos\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.dll
+C:\Users\leand\Desktop\Avanade\Projetos\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.pdb
+C:\Users\leand\Desktop\Avanade\Projetos\EstruturaDoPrograma\obj\Debug\netcoreapp3.1\EstruturaDoPrograma.genruntimeconfig.cache

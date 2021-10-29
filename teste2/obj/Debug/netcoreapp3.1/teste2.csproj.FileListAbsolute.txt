@@ -1,0 +1,13 @@
+C:\Users\leand\Desktop\Avanade\teste2\bin\Debug\netcoreapp3.1\teste2.exe
+C:\Users\leand\Desktop\Avanade\teste2\bin\Debug\netcoreapp3.1\teste2.deps.json
+C:\Users\leand\Desktop\Avanade\teste2\bin\Debug\netcoreapp3.1\teste2.runtimeconfig.json
+C:\Users\leand\Desktop\Avanade\teste2\bin\Debug\netcoreapp3.1\teste2.runtimeconfig.dev.json
+C:\Users\leand\Desktop\Avanade\teste2\bin\Debug\netcoreapp3.1\teste2.dll
+C:\Users\leand\Desktop\Avanade\teste2\bin\Debug\netcoreapp3.1\teste2.pdb
+C:\Users\leand\Desktop\Avanade\teste2\obj\Debug\netcoreapp3.1\teste2.csprojAssemblyReference.cache
+C:\Users\leand\Desktop\Avanade\teste2\obj\Debug\netcoreapp3.1\teste2.AssemblyInfoInputs.cache
+C:\Users\leand\Desktop\Avanade\teste2\obj\Debug\netcoreapp3.1\teste2.AssemblyInfo.cs
+C:\Users\leand\Desktop\Avanade\teste2\obj\Debug\netcoreapp3.1\teste2.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\Avanade\teste2\obj\Debug\netcoreapp3.1\teste2.dll
+C:\Users\leand\Desktop\Avanade\teste2\obj\Debug\netcoreapp3.1\teste2.pdb
+C:\Users\leand\Desktop\Avanade\teste2\obj\Debug\netcoreapp3.1\teste2.genruntimeconfig.cache

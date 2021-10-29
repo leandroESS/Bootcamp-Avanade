@@ -1,0 +1,13 @@
+C:\Users\leand\Desktop\Avanade\Projetos\instrucoes\bin\Debug\netcoreapp3.1\instrucoes.exe
+C:\Users\leand\Desktop\Avanade\Projetos\instrucoes\bin\Debug\netcoreapp3.1\instrucoes.deps.json
+C:\Users\leand\Desktop\Avanade\Projetos\instrucoes\bin\Debug\netcoreapp3.1\instrucoes.runtimeconfig.json
+C:\Users\leand\Desktop\Avanade\Projetos\instrucoes\bin\Debug\netcoreapp3.1\instrucoes.runtimeconfig.dev.json
+C:\Users\leand\Desktop\Avanade\Projetos\instrucoes\bin\Debug\netcoreapp3.1\instrucoes.dll
+C:\Users\leand\Desktop\Avanade\Projetos\instrucoes\bin\Debug\netcoreapp3.1\instrucoes.pdb
+C:\Users\leand\Desktop\Avanade\Projetos\instrucoes\obj\Debug\netcoreapp3.1\instrucoes.csprojAssemblyReference.cache
+C:\Users\leand\Desktop\Avanade\Projetos\instrucoes\obj\Debug\netcoreapp3.1\instrucoes.AssemblyInfoInputs.cache
+C:\Users\leand\Desktop\Avanade\Projetos\instrucoes\obj\Debug\netcoreapp3.1\instrucoes.AssemblyInfo.cs
+C:\Users\leand\Desktop\Avanade\Projetos\instrucoes\obj\Debug\netcoreapp3.1\instrucoes.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\Avanade\Projetos\instrucoes\obj\Debug\netcoreapp3.1\instrucoes.dll
+C:\Users\leand\Desktop\Avanade\Projetos\instrucoes\obj\Debug\netcoreapp3.1\instrucoes.pdb
+C:\Users\leand\Desktop\Avanade\Projetos\instrucoes\obj\Debug\netcoreapp3.1\instrucoes.genruntimeconfig.cache
